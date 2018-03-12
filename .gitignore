@@ -1,0 +1,4 @@
+.idea/
+local.properties
+wp-content/uploads/*
+wp-admin/images/*
